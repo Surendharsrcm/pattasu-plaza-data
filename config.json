@@ -1,0 +1,214 @@
+{
+  "offers": [
+    {
+      "id": "OFR001",
+      "title": "Diwali Mega Sale",
+      "titleTamil": "தீபாவளி மெகா சேல்",
+      "description": "Up to 20% off on all aerial shots this Diwali!",
+      "descriptionTamil": "இந்த தீபாவளியில் அனைத்து வான் ஷாட்களிலும் 20% வரை தள்ளுபடி!",
+      "discountType": "percent",
+      "discountValue": 20,
+      "applicableOn": "category",
+      "applicableId": "CAT001",
+      "startDate": "2026-10-15",
+      "endDate": "2026-11-05",
+      "isActive": true,
+      "banner": "diwali_offer_banner.jpg"
+    },
+    {
+      "id": "OFR002",
+      "title": "Pongal Special Offer",
+      "titleTamil": "பொங்கல் சிறப்பு சலுகை",
+      "description": "Flat ₹50 off on orders above ₹500 this Pongal!",
+      "descriptionTamil": "இந்த பொங்கலில் ₹500க்கு மேல் ஆர்டரில் ₹50 தட்டையான தள்ளுபடி!",
+      "discountType": "flat",
+      "discountValue": 50,
+      "minimumOrderValue": 500,
+      "applicableOn": "all",
+      "applicableId": "",
+      "startDate": "2027-01-10",
+      "endDate": "2027-01-16",
+      "isActive": false,
+      "banner": "pongal_offer_banner.jpg"
+    },
+    {
+      "id": "OFR003",
+      "title": "Combo Pack Festival Offer",
+      "titleTamil": "கொம்போ பேக் பண்டிகை சலுகை",
+      "description": "Buy any combo pack and get 10% extra discount!",
+      "descriptionTamil": "எந்த கொம்போ பேக்கையும் வாங்கி கூடுதல் 10% தள்ளுபடி பெறுங்கள்!",
+      "discountType": "percent",
+      "discountValue": 10,
+      "applicableOn": "category",
+      "applicableId": "CAT009",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31",
+      "isActive": true,
+      "banner": "combo_offer_banner.jpg"
+    }
+  ],
+
+  "banners": [
+    {
+      "id": "BNR001",
+      "title": "Diwali Mega Sale",
+      "titleTamil": "தீபாவளி மெகா சேல்",
+      "image": "banner_diwali.jpg",
+      "actionType": "category",
+      "actionId": "CAT001",
+      "sortOrder": 1,
+      "isActive": true
+    },
+    {
+      "id": "BNR002",
+      "title": "Kids Safe Sparklers",
+      "titleTamil": "குழந்தைகள் பாதுகாப்பு மெழுகுதிரி",
+      "image": "banner_kids.jpg",
+      "actionType": "category",
+      "actionId": "CAT003",
+      "sortOrder": 2,
+      "isActive": true
+    },
+    {
+      "id": "BNR003",
+      "title": "Wedding Premium Pack",
+      "titleTamil": "திருமண பிரீமியம் பேக்",
+      "image": "banner_wedding.jpg",
+      "actionType": "combo",
+      "actionId": "CMB004",
+      "sortOrder": 3,
+      "isActive": true
+    },
+    {
+      "id": "BNR004",
+      "title": "Bulk Order Discount",
+      "titleTamil": "மொத்த ஆர்டர் தள்ளுபடி",
+      "image": "banner_bulk.jpg",
+      "actionType": "screen",
+      "actionId": "bulk_order",
+      "sortOrder": 4,
+      "isActive": true
+    }
+  ],
+
+  "pricingTiers": {
+    "retail": {
+      "label": "Retail",
+      "labelTamil": "சில்லறை",
+      "minQty": 1,
+      "maxQty": 4,
+      "description": "1 to 4 units"
+    },
+    "wholesale": {
+      "label": "Wholesale",
+      "labelTamil": "மொத்தம்",
+      "minQty": 5,
+      "maxQty": 19,
+      "description": "5 to 19 units"
+    },
+    "bulk": {
+      "label": "Bulk",
+      "labelTamil": "அதிக மொத்தம்",
+      "minQty": 20,
+      "maxQty": 999999,
+      "description": "20+ units"
+    }
+  },
+
+  "deliveryZones": [
+    {
+      "id": "DZ001",
+      "name": "Sivakasi",
+      "nameTamil": "சிவகாசி",
+      "isAvailable": true,
+      "deliveryNote": "Same day delivery available",
+      "deliveryNoteTamil": "அன்றே டெலிவரி கிடைக்கும்"
+    },
+    {
+      "id": "DZ002",
+      "name": "Virudhunagar",
+      "nameTamil": "விருதுநகர்",
+      "isAvailable": true,
+      "deliveryNote": "Next day delivery",
+      "deliveryNoteTamil": "அடுத்த நாள் டெலிவரி"
+    },
+    {
+      "id": "DZ003",
+      "name": "Madurai",
+      "nameTamil": "மதுரை",
+      "isAvailable": true,
+      "deliveryNote": "2-3 days delivery",
+      "deliveryNoteTamil": "2-3 நாள் டெலிவரி"
+    },
+    {
+      "id": "DZ004",
+      "name": "Chennai",
+      "nameTamil": "சென்னை",
+      "isAvailable": true,
+      "deliveryNote": "3-5 days delivery",
+      "deliveryNoteTamil": "3-5 நாள் டெலிவரி"
+    },
+    {
+      "id": "DZ005",
+      "name": "Coimbatore",
+      "nameTamil": "கோயம்புத்தூர்",
+      "isAvailable": true,
+      "deliveryNote": "2-3 days delivery",
+      "deliveryNoteTamil": "2-3 நாள் டெலிவரி"
+    },
+    {
+      "id": "DZ006",
+      "name": "Trichy",
+      "nameTamil": "திருச்சி",
+      "isAvailable": true,
+      "deliveryNote": "2-3 days delivery",
+      "deliveryNoteTamil": "2-3 நாள் டெலிவரி"
+    },
+    {
+      "id": "DZ007",
+      "name": "Other Tamil Nadu",
+      "nameTamil": "மற்ற தமிழ்நாடு",
+      "isAvailable": true,
+      "deliveryNote": "Contact us for delivery details",
+      "deliveryNoteTamil": "டெலிவரி விவரங்களுக்கு எங்களை தொடர்பு கொள்ளுங்கள்"
+    },
+    {
+      "id": "DZ008",
+      "name": "Other States",
+      "nameTamil": "மற்ற மாநிலங்கள்",
+      "isAvailable": false,
+      "deliveryNote": "Currently not available. Contact shop.",
+      "deliveryNoteTamil": "தற்போது கிடைக்கவில்லை. கடையை தொடர்பு கொள்ளுங்கள்."
+    }
+  ],
+
+  "appConfig": {
+    "shopName": "Pattasu Plaza",
+    "shopNameTamil": "பட்டாசு பிளாசா",
+    "tagline": "Sivakasi's Finest Fireworks",
+    "taglineTamil": "சிவகாசியின் சிறந்த பட்டாசு",
+    "phone1": "9999999999",
+    "phone2": "8888888888",
+    "whatsapp": "9999999999",
+    "email": "info@pattasuplaza.com",
+    "address": "123 Main Road, Sivakasi, Tamil Nadu - 626123",
+    "addressTamil": "123 பிரதான சாலை, சிவகாசி, தமிழ்நாடு - 626123",
+    "minimumOrderValue": 100,
+    "bulkOrderMinValue": 5000,
+    "bulkOrderNote": "Our bulk sales team will contact you within 24 hours",
+    "bulkOrderNoteTamil": "எங்கள் மொத்த விற்பனை குழு 24 மணி நேரத்திற்குள் உங்களை தொடர்பு கொள்ளும்",
+    "orderConfirmationMessage": "Thank you! Our sales representative will contact you shortly to confirm your order.",
+    "orderConfirmationMessageTamil": "நன்றி! உங்கள் ஆர்டரை உறுதிப்படுத்த எங்கள் விற்பனை பிரதிநிதி விரைவில் உங்களை தொடர்பு கொள்வார்.",
+    "businessHours": "Mon-Sat: 9:00 AM - 8:00 PM",
+    "businessHoursTamil": "திங்கள்-சனி: காலை 9:00 - மாலை 8:00",
+    "googleMapsUrl": "",
+    "version": "1.0.0",
+    "forceUpdate": false,
+    "maintenanceMode": false,
+    "maintenanceMessage": "We are under maintenance. Please try again later.",
+    "showBulkOrder": true,
+    "showWholesale": true,
+    "defaultLanguage": "en",
+    "supportedLanguages": ["en", "ta"]
+  }
+}

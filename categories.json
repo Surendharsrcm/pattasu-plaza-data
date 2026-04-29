@@ -1,0 +1,122 @@
+[
+  {
+    "id": "CAT001",
+    "name": "Aerial Shots",
+    "nameTamil": "வான் பட்டாசு",
+    "description": "Multi-shot aerial fireworks for grand displays",
+    "descriptionTamil": "பிரமாண்டமான காட்சிகளுக்கான பல ஷாட் வான் பட்டாசு",
+    "icon": "aerial_shots.png",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "id": "CAT002",
+    "name": "Rockets",
+    "nameTamil": "ராக்கெட்",
+    "description": "High flying rockets with colour bursts",
+    "descriptionTamil": "வண்ண வெடிப்புகளுடன் உயரே பறக்கும் ராக்கெட்",
+    "icon": "rockets.png",
+    "sortOrder": 2,
+    "isActive": true
+  },
+  {
+    "id": "CAT003",
+    "name": "Sparklers",
+    "nameTamil": "மெழுகுதிரி பட்டாசு",
+    "description": "Safe sparklers for all ages",
+    "descriptionTamil": "அனைத்து வயதினருக்கும் பாதுகாப்பான மெழுகுதிரி பட்டாசு",
+    "icon": "sparklers.png",
+    "sortOrder": 3,
+    "isActive": true
+  },
+  {
+    "id": "CAT004",
+    "name": "Flower Pots",
+    "nameTamil": "தாமரை கோப்பை",
+    "description": "Ground based flower pot crackers",
+    "descriptionTamil": "தரையில் வைக்கும் தாமரை கோப்பை பட்டாசு",
+    "icon": "flower_pots.png",
+    "sortOrder": 4,
+    "isActive": true
+  },
+  {
+    "id": "CAT005",
+    "name": "Chakkars",
+    "nameTamil": "சக்கரம்",
+    "description": "Spinning ground and sky chakkars",
+    "descriptionTamil": "சுழலும் தரை மற்றும் வான் சக்கரங்கள்",
+    "icon": "chakkars.png",
+    "sortOrder": 5,
+    "isActive": true
+  },
+  {
+    "id": "CAT006",
+    "name": "Sound Crackers",
+    "nameTamil": "சத்த பட்டாசு",
+    "description": "Traditional sound crackers and string crackers",
+    "descriptionTamil": "பாரம்பரிய சத்த பட்டாசு மற்றும் வரிசை பட்டாசு",
+    "icon": "sound_crackers.png",
+    "sortOrder": 6,
+    "isActive": true
+  },
+  {
+    "id": "CAT007",
+    "name": "Fancy Items",
+    "nameTamil": "அலங்கார பட்டாசு",
+    "description": "Fancy and novelty fireworks items",
+    "descriptionTamil": "அலங்கார மற்றும் புதுமையான பட்டாசு பொருட்கள்",
+    "icon": "fancy_items.png",
+    "sortOrder": 7,
+    "isActive": true
+  },
+  {
+    "id": "CAT008",
+    "name": "Single & Multi Shot",
+    "nameTamil": "சிங்கிள் & மல்டி ஷாட்",
+    "description": "Single and multi shot aerial shells",
+    "descriptionTamil": "சிங்கிள் மற்றும் மல்டி ஷாட் வான் குண்டுகள்",
+    "icon": "shots.png",
+    "sortOrder": 8,
+    "isActive": true
+  },
+  {
+    "id": "CAT009",
+    "name": "Combo Packs",
+    "nameTamil": "கொம்போ பேக்",
+    "description": "Value combo packs with assorted fireworks",
+    "descriptionTamil": "பல வகை பட்டாசுகளுடன் மதிப்புமிக்க கொம்போ பேக்",
+    "icon": "combo_packs.png",
+    "sortOrder": 9,
+    "isActive": true
+  },
+  {
+    "id": "CAT010",
+    "name": "Gift Boxes",
+    "nameTamil": "பரிசு பெட்டி",
+    "description": "Beautifully packed gift boxes for gifting",
+    "descriptionTamil": "பரிசளிப்பதற்கான அழகாக பேக் செய்யப்பட்ட பரிசு பெட்டிகள்",
+    "icon": "gift_boxes.png",
+    "sortOrder": 10,
+    "isActive": true
+  },
+  {
+    "id": "CAT011",
+    "name": "Diwali Special",
+    "nameTamil": "தீபாவளி சிறப்பு",
+    "description": "Special collection for Diwali celebrations",
+    "descriptionTamil": "தீபாவளி கொண்டாட்டங்களுக்கான சிறப்பு தொகுப்பு",
+    "icon": "diwali_special.png",
+    "sortOrder": 11,
+    "isActive": true
+  },
+  {
+    "id": "CAT012",
+    "name": "Wedding Special",
+    "nameTamil": "திருமண சிறப்பு",
+    "description": "Premium fireworks for wedding celebrations",
+    "descriptionTamil": "திருமண கொண்டாட்டங்களுக்கான சிறந்த பட்டாசுகள்",
+    "icon": "wedding_special.png",
+    "sortOrder": 12,
+    "isActive": true
+  }
+]

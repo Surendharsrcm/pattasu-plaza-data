@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CMB001",
+    "name": "Family Pack",
+    "nameTamil": "குடும்ப பேக்",
+    "description": "Perfect starter pack for family celebrations. Includes sparklers, flower pots, chakkars and sound crackers.",
+    "descriptionTamil": "குடும்ப கொண்டாட்டங்களுக்கு சரியான தொடக்க பேக். மெழுகுதிரி, தாமரை கோப்பை, சக்கரம் மற்றும் சத்த பட்டாசு உள்ளது.",
+    "retailPrice": 499,
+    "wholesalePrice": 399,
+    "bulkPrice": 320,
+    "items": [
+      { "productId": "PRD003", "quantity": 2, "name": "2 Inch Sparkler" },
+      { "productId": "PRD006", "quantity": 3, "name": "Flower Pot Small" },
+      { "productId": "PRD008", "quantity": 2, "name": "Ground Chakkar" },
+      { "productId": "PRD025", "quantity": 2, "name": "Bijili Cracker" },
+      { "productId": "PRD001", "quantity": 2, "name": "Atom Bomb" }
+    ],
+    "image": "family_pack.jpg",
+    "isFeatured": true,
+    "isActive": true,
+    "tag": "Best Seller"
+  },
+  {
+    "id": "CMB002",
+    "name": "Diwali Bumper Pack",
+    "nameTamil": "தீபாவளி பம்பர் பேக்",
+    "description": "Complete Diwali celebration pack with all varieties. Aerial shots, rockets, sparklers and more.",
+    "descriptionTamil": "அனைத்து வகைகளுடன் முழுமையான தீபாவளி கொண்டாட்ட பேக். வான் ஷாட், ராக்கெட், மெழுகுதிரி மற்றும் பல.",
+    "retailPrice": 999,
+    "wholesalePrice": 799,
+    "bulkPrice": 650,
+    "items": [
+      { "productId": "PRD017", "quantity": 1, "name": "Aerial Shot 30 Shots" },
+      { "productId": "PRD015", "quantity": 2, "name": "Big Rocket" },
+      { "productId": "PRD005", "quantity": 2, "name": "Colour Sparkler" },
+      { "productId": "PRD007", "quantity": 2, "name": "Flower Pot Big" },
+      { "productId": "PRD009", "quantity": 2, "name": "Sky Chakkar" },
+      { "productId": "PRD026", "quantity": 1, "name": "1000 Wala" },
+      { "productId": "PRD001", "quantity": 3, "name": "Atom Bomb" }
+    ],
+    "image": "diwali_bumper.jpg",
+    "isFeatured": true,
+    "isActive": true,
+    "tag": "Diwali Special"
+  },
+  {
+    "id": "CMB003",
+    "name": "Kids Special Pack",
+    "nameTamil": "குழந்தைகள் சிறப்பு பேக்",
+    "description": "Safe and fun pack specially for kids. No loud crackers included.",
+    "descriptionTamil": "குழந்தைகளுக்கு பாதுகாப்பான மற்றும் வேடிக்கையான பேக். சத்தமான பட்டாசு இல்லை.",
+    "retailPrice": 299,
+    "wholesalePrice": 239,
+    "bulkPrice": 190,
+    "items": [
+      { "productId": "PRD003", "quantity": 3, "name": "2 Inch Sparkler" },
+      { "productId": "PRD005", "quantity": 2, "name": "Colour Sparkler" },
+      { "productId": "PRD008", "quantity": 3, "name": "Ground Chakkar" },
+      { "productId": "PRD024", "quantity": 2, "name": "Snake Tablet" },
+      { "productId": "PRD021", "quantity": 2, "name": "Colour Match Box" }
+    ],
+    "image": "kids_pack.jpg",
+    "isFeatured": true,
+    "isActive": true,
+    "tag": "Kids Safe"
+  },
+  {
+    "id": "CMB004",
+    "name": "Wedding Premium Pack",
+    "nameTamil": "திருமண பிரீமியம் பேக்",
+    "description": "Grand fireworks pack for weddings and special occasions. Premium aerial shots and fountains.",
+    "descriptionTamil": "திருமணங்கள் மற்றும் சிறப்பு நிகழ்வுகளுக்கான பிரமாண்டமான பட்டாசு பேக்.",
+    "retailPrice": 2999,
+    "wholesalePrice": 2399,
+    "bulkPrice": 1999,
+    "items": [
+      { "productId": "PRD019", "quantity": 1, "name": "Aerial Shot 120 Shots" },
+      { "productId": "PRD018", "quantity": 2, "name": "Aerial Shot 60 Shots" },
+      { "productId": "PRD020", "quantity": 3, "name": "Fancy Fountain" },
+      { "productId": "PRD029", "quantity": 3, "name": "Gold Fountain" },
+      { "productId": "PRD027", "quantity": 1, "name": "5000 Wala" },
+      { "productId": "PRD030", "quantity": 2, "name": "Crackling Rose" }
+    ],
+    "image": "wedding_pack.jpg",
+    "isFeatured": true,
+    "isActive": true,
+    "tag": "Premium"
+  },
+  {
+    "id": "CMB005",
+    "name": "Budget Starter Pack",
+    "nameTamil": "பட்ஜெட் ஸ்டார்டர் பேக்",
+    "description": "Best value pack for budget celebrations. All varieties at lowest price.",
+    "descriptionTamil": "பட்ஜெட் கொண்டாட்டங்களுக்கான சிறந்த மதிப்பு பேக். குறைந்த விலையில் அனைத்து வகைகளும்.",
+    "retailPrice": 199,
+    "wholesalePrice": 159,
+    "bulkPrice": 129,
+    "items": [
+      { "productId": "PRD003", "quantity": 1, "name": "2 Inch Sparkler" },
+      { "productId": "PRD006", "quantity": 2, "name": "Flower Pot Small" },
+      { "productId": "PRD008", "quantity": 2, "name": "Ground Chakkar" },
+      { "productId": "PRD022", "quantity": 2, "name": "Paper Bomb" },
+      { "productId": "PRD021", "quantity": 1, "name": "Colour Match Box" }
+    ],
+    "image": "budget_pack.jpg",
+    "isFeatured": false,
+    "isActive": true,
+    "tag": "Budget"
+  }
+]
